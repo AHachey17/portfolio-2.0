@@ -205,6 +205,10 @@ h6 {
   color: #149ddd;
 }
 
+.calendlyLink{
+  
+}
+
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position: fixed;
@@ -383,6 +387,7 @@ section {
 # Facts
 --------------------------------------------------------------*/
 .facts {
+  display: none;
   padding-bottom: 30px;
 }
 
@@ -752,6 +757,10 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+
+.testimonials{
+  display: none;
+}
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
@@ -845,6 +854,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
+  display: none;
   padding-bottom: 130px;
 }
 
